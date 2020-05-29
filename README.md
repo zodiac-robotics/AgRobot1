@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zodiac-robotics/AgRobot1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+With the future of humanity looking forward to spacefaring civilization, Mars the red planet has a promising future in making humans’multiplanetary species. The Mars rover will one day work alongside astronauts exploring the red planet. The rover is a wheeled robot, with manipulator arm that can autonomously drive and remotely controlled. It is built to perform scientific experiments and maintenance for a simulated Mars environment with challenging missions such as site survey, sample return, equipment servicing, and assistance.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
