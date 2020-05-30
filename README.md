@@ -17,7 +17,7 @@ There are mainly 4 tasks performed by the rover.
 In autonomous task the rover should automatically traverse through filed markers. Depth sensing camera is used to analyse the path and move along the file markers. Rocker bogie mechanism will help the rover to move through uneven terrains.The equipment servicing task includes pushing buttons, flipping switches, turn knobs etc. The gripper attached to then end of the robotic arm will help to perform this task. In astronaut assistance task the rover should assist the astronaut by picking up objects.This task is performed with the help of robotic arm. In soil sampling the rover should collect soil samples from required places and should perform soil analysis. The Archimedes drill mechanism helps to collect the soil and the sensors will help to determine soil parameters.
 
 
-
+![](block.jpg)
 
 
 ## ACHIEVEMENTS
