@@ -5,7 +5,7 @@ With the future of humanity looking forward to spacefaring civilization,Mars the
 ![](rover.jpg)
 
 
-## WORKING
+# WORKING
 
 There are mainly 4 tasks performed by the rover.
 (1) Autonomous task
@@ -20,7 +20,7 @@ In autonomous task the rover should automatically traverse through filed markers
 ![](block.jpg)
 
 
-## ACHIEVEMENTS
+# ACHIEVEMENTS
 
 The Indian Rover Challenge (IRC) is an annual robotics competition which features an engineering challenge to engage students worldwide in the next phase of space exploration.Indian Rover Challenge is a part of the Rover Challenge Series (RCS) of The Mars Society. Our rover was one among the 19 teams which were selected for the challenge in the year 2019.
 
